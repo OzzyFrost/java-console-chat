@@ -1,5 +1,7 @@
 ## Сборка образа
 ### сначала собираем jar файл
+mvn package
+
 mvn jar:jar
 #### или кликаем на 
 server/plugins/jar/jar:jar
